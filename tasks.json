@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Hacer la compra",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "description": "Limpiar la casa",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "description": "Estudiar para el examen",
+    "completed": false
+  }
+]
